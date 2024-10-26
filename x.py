@@ -32,7 +32,7 @@ def search_and_replace(file_path, search_word, replace_word):
 
 # Example usage
 file_path = 'final.txt'
-search_word = '#🇺🇸US_'
+search_word = '🇺🇸US_'
 replace_word = '-'
 search_and_replace(file_path, search_word, replace_word)
 
