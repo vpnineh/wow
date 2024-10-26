@@ -54,7 +54,7 @@ search_and_replace(file_path, search_word, replace_word)
 
 # File names
 input_file = 'final.txt'
-output_file = 'random'
+output_file = 'sub'
 
 # Number of lines to select
 num_lines_to_select = 50
