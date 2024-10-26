@@ -33,7 +33,7 @@ def search_and_replace(file_path, search_word, replace_word):
 # Example usage
 file_path = 'final.txt'
 search_word = '🇺🇸US_'
-replace_word = '-'
+replace_word = '🇺🇸 - '
 search_and_replace(file_path, search_word, replace_word)
 
 def search_and_replace(file_path, search_word, replace_word):
@@ -48,7 +48,7 @@ def search_and_replace(file_path, search_word, replace_word):
 # Example usage
 file_path = 'final.txt'
 search_word = '_@Surfboardv2ray'
-replace_word = '- @VPNineh'
+replace_word = ' - @VPNineh'
 search_and_replace(file_path, search_word, replace_word)
 
 
