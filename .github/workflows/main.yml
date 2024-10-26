@@ -33,7 +33,7 @@ jobs:
 
     - name: Convert to base64
       run: |
-          > random64
+          > sub64
           content=$(cat random | base64 | tr -d '\n')
             echo "$content" > sub64
 
