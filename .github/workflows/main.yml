@@ -21,7 +21,7 @@ jobs:
       run: |
           python x.py
 
-    - name: Push Random
+    - name: Push
       if: steps.changesRandom.outputs.changed == 'true'
       run: |
           git config --local user.email "action@github.com"
