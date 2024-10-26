@@ -1,0 +1,53 @@
+name: Random-Lines
+
+on:
+  push:
+    paths:
+      - 'x.py'
+      - '.github/workflows/main.yml'
+
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run script to select random lines
+      run: |
+          python x.py
+
+    - name: Push Random
+      if: steps.changesRandom.outputs.changed == 'true'
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sub
+          timestamp=$(TZ='Asia/Tehran' date)
+          git commit -m "✅Updated on ${timestamp}"
+          git push
+
+    - name: Convert to base64
+      run: |
+          > random64
+          content=$(cat random | base64 | tr -d '\n')
+            echo "$content" > sub64
+
+    - name: Check for Random base64 Changes
+      id: changesRandom64
+      run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'
+            
+    - name: Push Random Base64
+      if: steps.changesRandom64.outputs.changed == 'true'
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          timestamp=$(TZ='Asia/Tehran' date)
+          git commit -m "✅Updated on ${timestamp}"
+          git push
