@@ -1,7 +1,7 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸 - 45 - @VPNineh
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#🇺🇸 - 73 - @VPNineh
-vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 86 - @VPNineh
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸 - 49 - @VPNineh
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#🇺🇸 - 75 - @VPNineh
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 87 - @VPNineh
-vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 88 - @VPNineh
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 88 - @VPNineh
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 89 - @VPNineh
-vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#🇺🇸 - 130 - @VPNineh
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇺🇸 - 90 - @VPNineh
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#🇺🇸 - 133 - @VPNineh
