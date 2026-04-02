@@ -1,9 +1,7 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸US_112_@Surfboardv2ray
-vless://4d713dcb-790d-43d5-bd71-7ed4171b15b6@188.114.99.0:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cpt.aptel.site&fp=chrome&type=ws&allowInsecure=0#🇺🇸US_125_@Surfboardv2ray
-vless://6053689d-39d6-4005-b1bd-c0dce854f429@5.8.18.147:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=us-02.chunkyvpn.shop&type=tcp#🇺🇸US_152_@Surfboardv2ray
-vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#🇺🇸US_191_@Surfboardv2ray
-vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#🇺🇸US_241_@Surfboardv2ray
-vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#🇺🇸US_242_@Surfboardv2ray
-vless://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:43229?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JzUmS6a7nFt54YhvIe-KE31-W8WWJxcgQJt_q_-HbSQ&security=reality&sid=e0a48d60&sni=apple.com&type=tcp#🇺🇸US_291_@Surfboardv2ray
-vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#🇺🇸US_305_@Surfboardv2ray
-vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#🇺🇸US_376_@Surfboardv2ray
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸US_105_@Surfboardv2ray
+vless://6053689d-39d6-4005-b1bd-c0dce854f429@5.8.18.147:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=us-02.chunkyvpn.shop&type=tcp#🇺🇸US_140_@Surfboardv2ray
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#🇺🇸US_174_@Surfboardv2ray
+vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#🇺🇸US_216_@Surfboardv2ray
+vless://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:43229?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JzUmS6a7nFt54YhvIe-KE31-W8WWJxcgQJt_q_-HbSQ&security=reality&sid=e0a48d60&sni=apple.com&type=tcp#🇺🇸US_263_@Surfboardv2ray
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#🇺🇸US_276_@Surfboardv2ray
+vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#🇺🇸US_337_@Surfboardv2ray
